@@ -2,7 +2,7 @@
  <head>
   <title>Prueba de PHP empresariales</title>
  </head>
- <body>.
+ <body>
  <?php echo '<p>Hello Jeison´s world</p>'; ?>
  </body>
 </html>
