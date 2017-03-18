@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>Prueba de PHP</title>
+  <title>Prueba de PHP empresariales</title>
  </head>
- <body>
- <?php echo '<p>Hola clase de empresariales</p>'; ?>
+ <body>.
+ <?php echo '<p>Hello Jeison´s world</p>'; ?>
  </body>
 </html>
